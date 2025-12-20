@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidHubDevs/VoidHub/refs/heads/main/AimbotScript.lua"))()
+loadstring(game:HttpGet("https://protected-roblox-scripts.onrender.com/8b8491aa5297bab8e3b0a11be2a5ba7f"))()
