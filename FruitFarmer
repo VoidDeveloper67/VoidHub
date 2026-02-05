@@ -1,7 +1,7 @@
 -- SETTINGS: Change 'true' to 'false' to disable a script
 local Config = {
-    TopScript = true, 
-    SecondScript = false
+    TopScript = false, 
+    SecondScript = true
 }
 
 --- EXECUTION ---
