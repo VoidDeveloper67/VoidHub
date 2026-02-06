@@ -1,15 +1,1 @@
--- SETTINGS: Change 'true' to 'false' to disable a script
-local Config = {
-    TopScript = true, 
-    SecondScript = false
-}
-
---- EXECUTION ---
-
-if Config.TopScript then
-    loadstring(game:HttpGet("https://protected-roblox-scripts.onrender.com/36679add60fb791f4e2f214e02ffee7d"))()
-end
-
-if Config.SecondScript then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidDeveloper67/VoidHub/refs/heads/main/Void"))()
-end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidDeveloper67/VoidHub/refs/heads/main/Void"))()
